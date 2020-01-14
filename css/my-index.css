@@ -1,0 +1,194 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+.min-bg
+{
+    background:fixed;
+    background-color: none;
+    position: fixed;
+    z-index: 2423432432432432;
+}
+.min-background
+{
+ 
+   
+    background: url(../Img/slider-01.jpg) center;
+    height: 800px;
+    
+    
+}
+.layer
+{
+    background-color:rgb(0,0,0,.8);
+   height: 800px;
+}
+.min-brand
+{
+ color: #ff305b;
+font-size: 24px;    
+}
+.min-item-width
+{
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 0.5px;
+    padding: 20px ;
+    color: white;
+}
+.min-text-h1
+{
+    top: 50%;
+    left: 35%;
+    color: #ff305b;
+    
+    text-transform: uppercase;
+}
+.min-text-h1 h1
+{
+    font-size: 70px; !important
+    font-weight: bold;
+}
+@media screen and (max-width:550px)
+
+{
+   .min-text-h1 h1
+    {
+       
+    font-size: 40px; !important
+    }
+    .min-text-h1
+    {
+       left: 20%; 
+    }
+    
+}
+.ihello-bg
+{
+    height: 600px;
+}
+.min-border
+{
+    
+  border: 10px solid dimgray !important;
+     border-radius:40px;
+   height: 450px; 
+    width: 70%; 
+ 
+}
+.min-photo-border
+{
+    top:15%;
+    left: 8%;
+    
+}
+.min-button
+{
+    background-color:#ff305b;
+    color: white;
+        margin-right: 10px;
+        padding: 10px 24px;
+
+}
+.min-p
+{
+    top:43%;
+    left: 45%;
+    color: white;
+   
+}
+.third-part
+{
+    background-color: #f1f1f1;
+    height: 500px;
+}
+.min-icon
+{
+    color: #ff305b;
+   font-size: 25px;
+}
+@media screen and (max-width:992px)
+{
+  .third-part
+{
+  
+    height: 950px;
+} 
+ .ihello-bg
+{
+    height: 1000px;
+}  
+}
+.our-h2
+{
+    top:10%;
+}
+.our-line 
+{
+    top:20%;
+    color: red;
+}
+hr
+{
+    color: red;
+}
+.forth-part
+{
+    
+  height: 750px;
+    background-color: aqua;
+}
+@media screen and (max-width:992px)
+{
+ .forth-part
+{
+    
+  height: 2400px;
+
+    }
+     
+    }
+
+.layout
+{
+    
+    background-color: rgba(0,0,0,0.5);
+    height: 100%;
+  top:100%;
+    transition: top .5s;
+    box-sizing: border-box;
+   
+    padding: 0;
+}
+.lay:hover .layout
+{
+    top:0%;
+}
+.font-size-icons
+{
+    font-size: 2rem; !important
+}
+.min-par-modal
+{
+    font-size: 15px;
+}
+.min-nav-bils
+{
+    color: black; !important
+    background-color: none;
+}
+.min-nav-bils:hover
+{
+       color:red; !important
+ 
+}
+.w-10
+
+{
+    width: 10%;
+}
+.min-cuslr
+{
+    background-color: grey;
+}
